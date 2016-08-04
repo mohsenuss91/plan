@@ -2,7 +2,7 @@ Plan, a timetable generator for NTNU students
 =============================================
 
 This piece of software started out as a simple tool to assist in creating
-readable timetables for NTNU courses. The earliest version of the site provided
+readable timetables for [NTNU](https://www.ntnu.edu/) courses. The earliest version of the site provided
 this functionality and nothing more. As more fellow students started using the
 software new features where added based on personal needs and suggestions from
 other students.
